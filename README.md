@@ -1,6 +1,6 @@
 # Environmental Assessment of Noise and Dust Pollution in Hillingdon
 
-This repository contains the code and data visualizations for the project "Environmental Assessment of Noise and Dust Pollution: A Case Study in the London Borough of Hillingdon." The project aims to evaluate the impact of environmental pollutants, specifically noise and dust, on the local communities within Hillingdon. This assessment is critical in understanding the extent of pollution and its potential risks to public health and the environment.
+This repository contains the code and data visualisations for the project "Environmental Assessment of Noise and Dust Pollution: A Case Study in the London Borough of Hillingdon." The project aims to evaluate the impact of environmental pollutants, specifically noise and dust, on the local communities within Hillingdon. This assessment is critical in understanding the extent of pollution and its potential risks to public health and the environment.
 
 ## Project Overview
 
@@ -17,17 +17,17 @@ The project was conducted as part of a larger environmental study focused on pol
 ### Data Collection
 The data was collected using environmental monitoring equipment deployed at strategic locations throughout Hillingdon. Noise levels were measured in decibels (dB), while dust concentration was assessed by measuring particulate matter (PM2.5 and PM10) using air quality sensors.
 
-### Data Analysis and Visualization
-The analysis was conducted using Python, with libraries such as `Pandas`, `Matplotlib`, and `Seaborn` for data manipulation and visualization. The repository includes:
+### Data Analysis and Visualisation
+The analysis was conducted using Python, with libraries such as `Pandas`, `Matplotlib`, and `Seaborn` for data manipulation and visualisation. The repository includes:
 
-- **Noise Level Analysis**: Visualization of noise data, including time series graphs and heat maps to identify peak noise periods and locations.
+- **Noise Level Analysis**: Visualisation of noise data, including time series graphs and heat maps to identify peak noise periods and locations.
 - **Dust Concentration Analysis**: Graphs illustrating dust levels across different areas, highlighting areas where concentrations exceed recommended health guidelines.
 - **Correlation Studies**: Scatter plots and correlation matrices to explore the relationship between noise and dust pollution.
 
 ## Repository Structure
 
 - `data/`: Contains the raw and processed data files.
-- `notebooks/`: Jupyter notebooks used for data analysis and visualization.
+- `notebooks/`: Jupyter notebooks used for data analysis and visualisation.
 - `scripts/`: Python scripts for data processing and graph generation.
 - `figures/`: Pre-generated graphs and illustrations included in the report.
 
