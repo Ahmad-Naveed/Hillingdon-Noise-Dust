@@ -29,7 +29,7 @@ The analysis was conducted using Python, with libraries such as `Pandas`, `Matpl
 This section provides details about the various Jupyter notebooks included in the repository. Each notebook contains specific analyses and visualizations related to the environmental assessment.
 
 ### Notebooks:
-- **Dust Data Continuous.ipynb**: *[This notebook processes and visualizes continuous dust concentration data, focusing on particulate matter (PM2.5 and PM10) across different locations in Hillingdon.]* 
+- **Dust Data Continuous.ipynb**: *[This notebook processes and visualizes continuous dust concentration data, focusing on particulate matter (PM2.5 and PM10) across the two locations in Hillingdon.]* 
 - **Dust Data Interactive.ipynb**: *[Provides interactive visualizations for dust data, allowing users to explore trends and patterns in particulate matter concentration.]*
 - **Dust Sampling 2-8-24.ipynb**: *[Contains data and analysis from dust sampling conducted on February 8, 2024, focusing on specific sites within Hillingdon.]*
 - **Noise.ipynb**: *[Analyses noise pollution data, generating visualisations like heat maps and time series to identify noise hotspots]*
