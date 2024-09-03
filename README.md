@@ -24,16 +24,3 @@ The analysis was conducted using Python, with libraries such as `Pandas`, `Matpl
 - **Dust Concentration Analysis**: Graphs illustrating dust levels across different areas, highlighting areas where concentrations exceed recommended health guidelines.
 - **Correlation Studies**: Scatter plots and correlation matrices to explore the relationship between noise and dust pollution.
 
-## Repository Structure
-
-- `data/`: Contains the raw and processed data files.
-- `notebooks/`: Jupyter notebooks used for data analysis and visualisation.
-- `scripts/`: Python scripts for data processing and graph generation.
-- `figures/`: Pre-generated graphs and illustrations included in the report.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hillingdon-pollution-assessment.git
-
